@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+*.Rproj.user/
+data/
+*.fastq
+*.bam
+*.vcf
